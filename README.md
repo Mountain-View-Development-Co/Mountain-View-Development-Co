@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mountain-View-Development-Co
+- 👋 Hi, I’m @Mountain-View-Development-Co.
 - 👀 I’m interested in I.T
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Future Projects
